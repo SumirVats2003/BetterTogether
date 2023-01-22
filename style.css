@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Sofia+Sans+Semi+Condensed&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	--ui1: #fff;
+	--ui2: #81f4e1;
+	--ui3: #56cbf9;
+	--ui4: #ff729f;
+	--headfont: 'Lobster', cursive;
+	--uifont: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+/* .head {
+	height: 100vh;
+	background: url('img/logo.jpeg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+} */
+
+#navbar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: var(--ui4);
+	/* background-color: transparent; */
+}
+
+#navbar img {
+	width: 4vw;
+	margin-left: 0.5rem;
+	cursor: pointer;
+}
+
+#navbar ul {
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#navbar ul a {
+	padding: 1.5em;
+	width: 7vw;
+	color: var(--ui1);
+	text-align: center;
+	text-decoration: none;
+}
+
+#navbar ul a li {
+	font-family: var(--uifont);
+	font-size: 1.3rem;
+}
+
+#navbar ul a:hover {
+	background-color: var(--ui1);
+	color: var(--ui4);
+	transition: 0.2s ease;
+}
+
+.main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: var(--ui4);
+	color: var(--ui1);
+	padding: 2rem;
+}
+
+.side-main {
+	margin: 2rem;
+	text-align: center;
+}
+
+.side-main #tagline {
+	font-family: var(--headfont);
+	font-size: 4rem;
+}
+
+.side-main #main-head {
+	font-family: var(--uifont);
+	font-weight: normal;
+	font-size: 2rem;
+}
+
+.side-main #hashtag {
+	font-family: var(--headfont);
+	font-size: 3rem;
+}
+
+.about {
+	text-align: center;
+	margin: 4rem;
+}
+
+.about h1 {
+	font-family: var(--headfont);
+	font-size: 4rem;
+	font-weight: bold;
+	color: var(--ui3);
+	margin: 2rem;
+}
+
+.about .abtme {
+	font-size: 2.3rem;
+	font-family: var(--uifont);
+}
+
+.card {
+	background-color: var(--ui2);
+	width: 80vw;
+	margin: auto;
+	border: 1px solid var(--ui3);
+	border-radius: 10px;
+	box-shadow: 0 0 20px rgb(87, 86, 86);
+}
+
+table {
+	margin: auto;
+}
+
+.btn {
+	margin: 0.7em;
+	width: 30vw;
+	background-color: var(--ui3);
+	font-family: var(--uifont);
+	font-size: 2rem;
+	padding: 1rem;
+	color: white;
+	border: 0;
+	border-radius: 10px;
+	box-shadow: 0 0 20px #a0b8b8;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background-color: var(--ui1);
+	color: var(--ui3);
+	transition: 0.2s ease-in-out;
+}
+
+footer {
+	margin-top: 2rem;
+	background-color: var(--ui4);
+}
+
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: var(--ui4);
+}
+
+footer a {
+	color: white;
+	font-size: 1.3rem;
+	font-family: var(--uifont);
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: rgb(233, 233, 233);
+	text-decoration: underline;
+	transition: none;
+}
+
+.footer .foot-section {
+	padding: 3vh 2vw;
+}
+
+.foot-section ul {
+	list-style: none;
+}
+
+.foot-section ul li {
+	margin: 2rem;
+}
+
+.social {
+	background-color: var(--dark);
+}
+
+.social a i {
+	/* color: var(--nav); */
+	text-align: center;
+	font-size: 2.5rem;
+	margin: 1.5rem;
+}
+
+#sect .social {
+	padding: 1.2rem;
+}
+
+#sect .social a i {
+	margin: 0.2rem 1.5rem;
+	color: var(--ui1);
+}
+
+#sect .social a i:hover {
+	color: rgb(197, 197, 197);
+}
+
+footer p {
+	color: var(--ui1);
+	padding-top: 0.9em;
+	padding-bottom: 0.9em;
+	text-align: center;
+	font-family: var(--uifont);
+}
+
+footer p i {
+	color: rgb(255, 0, 64);
+}
