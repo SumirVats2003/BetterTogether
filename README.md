@@ -39,10 +39,13 @@ The application has a number of features that might help couples manage their ti
 <b>Aaj unse Milna hai Humein</b> - Couples can work together to set up a reminder for their date when they decide to meet up in person after days of restricted and virtual communication. The countdown starts as soon as the reminder is set up, and it will notify each user about their date after a predetermined number of days. The couples' shared memories and animated pop-ups would make this reminder appealing.
 </li>
 <li>
-<b>Silver Lining to my Dark Cloud</b> - 
+<b>Rewrite the stars</b> - These days, all texting services offer eye-catching background themes that users can customise on both ends. However, we offer chat themes that go with the conversation's mood.
 </li>
 <li>
-<b>Silver Lining to my Dark Cloud</b> - 
+<b>Silver Lining to my Dark Cloud</b> - Songs help us in this regard as many people find it difficult to express their emotions in words. We frequently notice that people have associations with tunes that make them think about their partners. With the help of this feature, the recipient will see a pop-up with a brief message and a song that has been specially chosen for them by their mate
+</li>
+<li>
+<b>Token of love for the gift I got without asking</b> - With the help of the feature, users will be able to surprise their partners with unique gifts that our website will be able to suggest. A love quote will also be written on the present that the recipient will receive from their companion.
 </li>
 </ul>
 
