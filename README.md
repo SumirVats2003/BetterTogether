@@ -36,7 +36,7 @@ The application has a number of features that might help couples manage their ti
 <b>Suddenly My life turned around like a Movie</b> - Nowadays, there is so much hustle that it can be tough to carve out time for your partner. Even if they get to spend those hours together, a lot of time is lost choosing what movie or television show to watch. However, any partner can use this function to add a movie or series to a wishlist that they intend to watch together so that they can enjoy their viewing time rather than just making a choice. Additionally, it will provide recommendations based on their past watch habits.
 </li>
 <li>
-<b>Aaj unse Milna hai Humein</b>
+<b>Aaj unse Milna hai Humein</b> - Couples can work together to set up a reminder for their date when they decide to meet up in person after days of restricted and virtual communication. The countdown starts as soon as the reminder is set up, and it will notify each user about their date after a predetermined number of days. The couples' shared memories and animated pop-ups would make this reminder appealing.
 </li>
 </ul>
 
