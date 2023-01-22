@@ -49,6 +49,9 @@ The application has a number of features that might help couples manage their ti
 </li>
 </ul>
 
+### Presentation
+Please find the project presentation <a href="https://drive.google.com/file/d/1t7T7x1rjUPlf8DRfi7g2SsRMey1MOeDX/view?usp=share_link">here</a>
+
 ## Project Information
 This project is developed as a submission to Date-a-thon(Prometeo'23) by team Play Date
 <img src="img/prometeo.png">
